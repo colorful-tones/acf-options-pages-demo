@@ -1,0 +1,45 @@
+{
+    "key": "group_64baa1dd46baa",
+    "title": "Analytics",
+    "fields": [
+        {
+            "key": "field_64baa1ddadd2d",
+            "label": "Google Analytics (GA4) ID",
+            "name": "ga4_id",
+            "aria-label": "",
+            "type": "text",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "G-ABCD1234",
+            "maxlength": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": ""
+        }
+    ],
+    "location": [
+        [
+            {
+                "param": "options_page",
+                "operator": "==",
+                "value": "site-settings"
+            }
+        ]
+    ],
+    "menu_order": 0,
+    "position": "normal",
+    "style": "seamless",
+    "label_placement": "left",
+    "instruction_placement": "label",
+    "hide_on_screen": "",
+    "active": false,
+    "description": "Site Settings (Example 2)",
+    "show_in_rest": 0,
+    "modified": 1690383958
+}
