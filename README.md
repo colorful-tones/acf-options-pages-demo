@@ -1,6 +1,8 @@
 # Options pages and site-wide fields with ACF
 
-This is a WordPress plugin that requires ACF PRO plugin. This plugin demonstrates different ways to create Options pages with site-wide settings. These are often used to allow clients a centralized place to update and control site-wide settings.
+This is a WordPress plugin that requires the [ACF PRO plugin](https://www.advancedcustomfields.com/). This plugin demonstrates different ways to create Options pages with site-wide settings. These are often used to allow clients a centralized place to update and control site-wide settings.
+
+👉 [Check out the playback recording from this workshop](https://www.youtube.com/watch?v=NAdxBHZImiQ) 👈
 
 This plugin will create three different Options pages.
 
